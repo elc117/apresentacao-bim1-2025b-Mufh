@@ -112,7 +112,7 @@ applyExpr' xs = map (\x -> 3*x + 2) xs
 ```
 
 **Execução:**
-![eba](exercicio2.gif)
+![eba](exercicio22.gif)
 
 ---
 
@@ -139,8 +139,6 @@ só pra confirmar eu tentei `xs * ys` mas não vai né
 ![alt text](image.png)
 
 testei também `[a*b | a <- xs, b <- ys]` mas isso gera o produto de todas as combinações, pra cada elemento de xs ele percorre todos os elementos de ys.
-
-![alt text](image-1.png)
 
 
 aí eu fiz com o zip que o enunciado falou
