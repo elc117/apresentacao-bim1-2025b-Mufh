@@ -14,7 +14,6 @@ A melhor área parece ser a educação, mas também tem:
 - Linguística Computacional (um dos motivos da criação)
 - Bancos de Dados Relacional: pra consultas complexas e inferencia parece bom, mas acho que tem coisa melhor (PL/SQL, neo4j)
 - Provar teoremas matemáticos: realizando inferências lógicas, área clássica do Prolog.
-- Sistemas embarcados.
 
 
 ## Sintaxe 
