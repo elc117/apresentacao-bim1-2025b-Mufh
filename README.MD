@@ -116,14 +116,13 @@ R: muito pouco
 
 A parte boa:
 
-R/prolog
-[deleted_user]
+**R/prolog [deleted_user]**
+
 "Eu penso que aprender isso (Prolog) traz benefícios além do que é imediatamente aplicável: mostra que tipos de coisas malucas são possíveis, ajuda a reduzir o hype em torno de coisas novas e ajuda a analisar problemas de forma mais *independente da tecnologia*. Mas esses são benefícios intangíveis - estão na forma de pensar.
 
 No original ele usa o termo "technology-agnostically", ou seja, resolver problema não dependendo de lib ou framework - se tornar verdadeiramente um "poliglota".
 
-R/prolog
-[Zwarakatranemia]
+**R/prolog [Zwarakatranemia]**
 
 "Prolog maybe not that much, but logic programming concepts are being used.
 
@@ -137,8 +136,8 @@ Artigo mostrando uso de Prolog pra melhorar reasoning de LLM:
 
 Alguma galera de finanças também parece usar:
 
-R/prolog
-[toblotron]
+**R/prolog [toblotron]**
+
 "My former company uses it to handle complex business-rules in fintech [...]"
  
 Onde prolog parece BRILHAR MESMO é em "neurosymbolic": é IA que combina aprendizado estatístico (neural) com lógica e conhecimento explícito (simbólico).
