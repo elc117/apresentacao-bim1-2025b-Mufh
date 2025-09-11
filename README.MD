@@ -10,11 +10,11 @@ Diferente de linguagens imperativas (C, Python) onde damos o passo a passo pra r
 
 A melhor área parece ser a educação, mas também tem:
 
-IA: NLP, DeepLearning, LLM...
-Linguística Computacional (um dos motivos da criação)
-Bancos de Dados Relacional: pra consultas complexas e inferencia parece bom, mas acho que tem coisa melhor (PL/SQL, neo4j)
-Provar teoremas matemáticos: realizando inferências lógicas, área clássica do Prolog.
-Sistemas embarcados.
+- IA: NLP, DeepLearning, LLM...
+- Linguística Computacional (um dos motivos da criação)
+- Bancos de Dados Relacional: pra consultas complexas e inferencia parece bom, mas acho que tem coisa melhor (PL/SQL, neo4j)
+- Provar teoremas matemáticos: realizando inferências lógicas, área clássica do Prolog.
+- Sistemas embarcados.
 
 
 ## Sintaxe 
@@ -144,3 +144,11 @@ R/prolog
 Onde prolog parece BRILHAR MESMO é em "neurosymbolic": é IA que combina aprendizado estatístico (neural) com lógica e conhecimento explícito (simbólico).
 
 ["The Revival of Prolog and Neuro-Symbolic AI"](https://medium.com/@kenichisasagawa/the-revival-of-prolog-and-neuro-symbolic-ai-1b2e66b1b7b0)
+
+
+## Referências
+
+https://pt.wikipedia.org/wiki/Prolog
+https://www.reddit.com/r/prolog
+https://www.swi-prolog.org/
+
