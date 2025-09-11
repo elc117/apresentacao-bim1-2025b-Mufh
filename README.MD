@@ -148,6 +148,8 @@ Onde prolog parece BRILHAR MESMO é em "neurosymbolic": é IA que combina aprend
 ## Referências
 
 https://pt.wikipedia.org/wiki/Prolog
+
 https://www.reddit.com/r/prolog
+
 https://www.swi-prolog.org/
 
