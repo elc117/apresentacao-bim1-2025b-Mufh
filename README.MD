@@ -92,7 +92,7 @@ João é avô de quem?
 ?- avo(joao, Z).
 ```
 
-![alt](video.mp4)
+![alt](video.gif)
 
 ## Comparações
 Apesar das grandes diferenças de Python, tem alguns paralelos:
